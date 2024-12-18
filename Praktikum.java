@@ -13,7 +13,7 @@ public class Praktikum {
     } else {
         System.out.println("Сегодня не читаем.");
     }
+	System.out.orintln("first_conflict");
   }
-System.out.println("first conflict");
 
 }
