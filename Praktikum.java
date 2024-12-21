@@ -14,6 +14,7 @@ public class Praktikum {
         System.out.println("Сегодня не читаем.");
     }
 	System.out.println("first_conflict");
+	System.out.println("second_my_conflict");
   }
 
 }
