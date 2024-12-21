@@ -1,6 +1,6 @@
 public class Praktikum {
   public static void main(String[] args) {
-        int freeHours = 5; // Объявили переменную с количеством свободного времени в часах и присвоили ей значение
+        int freeHours = 1; // Объявили переменную с количеством свободного времени в часах и присвоили ей значение
                         
         checkReading(freeHours); // вызываем метод с циклом и передаём в него количество свободного времени
   }
@@ -14,7 +14,7 @@ public class Praktikum {
         System.out.println("Сегодня не читаем.");
     }
 	System.out.println("first_conflict");
-    System.out.println("second_conflict");
+	System.out.println("second_my_conflict");
   }
 
 }
