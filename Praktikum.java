@@ -15,10 +15,10 @@ public class Praktikum {
     }
 	System.out.println("first_conflict");
 	System.out.println("second_my_conflict");
-	System.out.println("Third_my_conflict");
+OA	System.out.println("Third_my_conflict");
  	System.out.println("Fourth_my_conflict");
 	System.out.println("Fifth_conflict");
-	System.out.println("Six_conflict_with_Reabse");
+	System.out.println("Six_conflict_with_Reabs");
   }
 
 }
